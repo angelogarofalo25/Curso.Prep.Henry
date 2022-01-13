@@ -206,7 +206,7 @@ El tipo de datos "string" tiene un método incorporado llamado `.length`. Cualqu
 ```javascript
 var nombreGato = 'felix';
 console.log(nombreGato.length); // 5
-```
+``` 
 
 Veremos muchos otros métodos integrados en otros tipos de datos a lo largo de este curso.
 
