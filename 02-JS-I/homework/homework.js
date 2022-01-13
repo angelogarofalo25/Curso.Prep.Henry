@@ -150,7 +150,7 @@ function elevarAlCuadrado(num) {
   // ojo: No es raiz cuadrada!
   // Tu código:
   //num * num
-  //return math.pow(num) : con biblioteca
+  //return math.pow(num) : con metodo pow
   return num ** 2 ;
   
 }
@@ -165,7 +165,7 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
-  //return Math.pow(num , exponent) : con biblioteca
+  //return Math.pow(num , exponent) : con los metodos 
   //return  num ** exponent
   var expo = 1
   for (var i = 0; i< exponent; i++){
